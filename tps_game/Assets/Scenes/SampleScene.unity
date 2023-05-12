@@ -1329,7 +1329,7 @@ MonoBehaviour:
     m_BlockList: []
     m_Default: 1
   m_InitCharacterOnAwake: 1
-  m_Character: {fileID: 0}
+  m_Character: {fileID: 1065049721}
   m_Anchor: {fileID: 0}
   m_AutoAnchor: 0
   m_AutoAnchorBone: 10
@@ -1918,6 +1918,25 @@ CapsuleCollider:
   m_Height: 0.46098036
   m_Direction: 1
   m_Center: {x: 0, y: 0.23049018, z: 0}
+--- !u!1 &727903826 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6306057776566508752, guid: e88266b54de15624ab3bb0c2b6251323,
+    type: 3}
+  m_PrefabInstance: {fileID: 62162820}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &727903827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727903826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3ebcf42a9d8f9145a73c60c46c60bc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ID: 50001101
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2451,12 +2470,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ItemSetGroups:
-  - m_SerializedItemCategory: {fileID: 114688281249701904, guid: 5481010ef14c32f4cb7b6661b0c59fb4,
+  - m_SerializedItemCategory: {fileID: -7928936026161132196, guid: 4c4726ca38c75ea49a3a54d043a8a9b7,
       type: 2}
     m_StartingItemSetRules:
-    - {fileID: 11400000, guid: a26ce96f0eca43d4fbf76b9d2203da18, type: 2}
+    - {fileID: 11400000, guid: b1af38f501cbec444b0d90e8d41d4818, type: 2}
   m_OnAddItemUpdateItemSetsOption: 0
-  m_ItemCollection: {fileID: 11400000, guid: 5481010ef14c32f4cb7b6661b0c59fb4, type: 2}
+  m_ItemCollection: {fileID: 11400000, guid: 4c4726ca38c75ea49a3a54d043a8a9b7, type: 2}
 --- !u!114 &1065049727
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2503,7 +2522,13 @@ MonoBehaviour:
     m_Option: 1
     m_ItemSetName: 
     m_Index: 0
-  m_DefaultLoadout: []
+  m_DefaultLoadout:
+  - ItemDefinition: {fileID: 2092375842868742230, guid: 4c4726ca38c75ea49a3a54d043a8a9b7,
+      type: 2}
+    Amount: 1
+  - ItemDefinition: {fileID: -4593956281880423856, guid: 4c4726ca38c75ea49a3a54d043a8a9b7,
+      type: 2}
+    Amount: 100
   m_RemoveExceptions: []
 --- !u!114 &1065049728
 MonoBehaviour:
