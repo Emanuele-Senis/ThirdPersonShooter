@@ -326,8 +326,8 @@ MonoBehaviour:
   m_SpawnParent:
     m_ID: 50001001
     m_Object: {fileID: 0}
-  m_LocalSpawnPosition: {x: 0, y: 0, z: 0}
-  m_LocalSpawnRotation: {x: 0, y: 0, z: 0}
+  m_LocalSpawnPosition: {x: -0.0616, y: 0.3214, z: 0.0151}
+  m_LocalSpawnRotation: {x: -81.795, y: -133.773, z: -128.663}
   m_LocalSpawnScale: {x: 1, y: 1, z: 1}
   m_NonDominantHandIKTarget: {fileID: 0}
   m_NonDominantHandIKTargetHint: {fileID: 0}
@@ -1953,6 +1953,14 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 386937841320946498}
   m_PrefabAsset: {fileID: 0}
+--- !u!33 &2922126109499228753
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5501406955740872161}
+  m_Mesh: {fileID: -4404790747583470383, guid: f71438539ac813d4b8a893a46e9221de, type: 3}
 --- !u!23 &1697882799661882801
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1995,14 +2003,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &2922126109499228753
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5501406955740872161}
-  m_Mesh: {fileID: -4404790747583470383, guid: f71438539ac813d4b8a893a46e9221de, type: 3}
 --- !u!1 &8438170405754709644 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8089813672679853518, guid: 3a812b2908bc910428b3c451985b512a,
@@ -2293,6 +2293,14 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 6208377037117553077}
   m_PrefabAsset: {fileID: 0}
+--- !u!33 &7376707106365563732
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2246970302255738646}
+  m_Mesh: {fileID: -4404790747583470383, guid: f71438539ac813d4b8a893a46e9221de, type: 3}
 --- !u!23 &6832039326757561302
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2335,14 +2343,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &7376707106365563732
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2246970302255738646}
-  m_Mesh: {fileID: -4404790747583470383, guid: f71438539ac813d4b8a893a46e9221de, type: 3}
 --- !u!1 &2768689755774989435 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8089813672679853518, guid: 3a812b2908bc910428b3c451985b512a,

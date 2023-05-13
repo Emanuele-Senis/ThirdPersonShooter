@@ -284,8 +284,8 @@ MonoBehaviour:
   m_SpawnParent:
     m_ID: 50024001
     m_Object: {fileID: 0}
-  m_LocalSpawnPosition: {x: 0, y: 0, z: 0}
-  m_LocalSpawnRotation: {x: 0, y: 0, z: 0}
+  m_LocalSpawnPosition: {x: 0.069, y: 0.114, z: 0.015}
+  m_LocalSpawnRotation: {x: -3.847, y: -80.839, z: -231.547}
   m_LocalSpawnScale: {x: 1, y: 1, z: 1}
   m_NonDominantHandIKTarget: {fileID: 0}
   m_NonDominantHandIKTargetHint: {fileID: 0}
