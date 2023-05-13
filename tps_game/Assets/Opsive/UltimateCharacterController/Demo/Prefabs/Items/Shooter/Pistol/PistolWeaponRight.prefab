@@ -14,6 +14,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 104349913832013615, guid: b23a9704fc828694e8abf1e2367566c5,
         type: 3}
+      propertyPath: m_DebugLogger.m_DebugAction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 104349913832013615, guid: b23a9704fc828694e8abf1e2367566c5,
+        type: 3}
       propertyPath: managedReferences[5031970022835879970].m_States.Array.size
       value: 2
       objectReference: {fileID: 0}
