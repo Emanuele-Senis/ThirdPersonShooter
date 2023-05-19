@@ -179,6 +179,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PistolWeaponRight
       objectReference: {fileID: 0}
+    - target: {fileID: 2870251604897600810, guid: b23a9704fc828694e8abf1e2367566c5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8094058990142307091, guid: b23a9704fc828694e8abf1e2367566c5,
         type: 3}
       propertyPath: m_ShakeSpeed
