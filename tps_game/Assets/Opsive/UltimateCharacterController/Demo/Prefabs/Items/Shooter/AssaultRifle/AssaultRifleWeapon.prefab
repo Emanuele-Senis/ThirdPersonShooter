@@ -477,7 +477,7 @@ MonoBehaviour:
         m_MuzzleLocation:
           m_FirstPerson:
             m_ID: -1
-            m_Object: {fileID: 1700853509622167818}
+            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: -1
             m_Object: {fileID: 7935601719893656197}
@@ -509,7 +509,7 @@ MonoBehaviour:
         m_ShellLocation:
           m_FirstPerson:
             m_ID: -1
-            m_Object: {fileID: 8093287633905241104}
+            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: -1
             m_Object: {fileID: 7397101020177450964}
@@ -708,13 +708,13 @@ MonoBehaviour:
         m_ReloadableClip:
           m_FirstPerson:
             m_ID: -1
-            m_Object: {fileID: 5182748132438832755}
+            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: -1
             m_Object: {fileID: 1484756418880332932}
         m_ReloadableClipAttachment:
           m_FirstPerson:
-            m_ID: 50001101
+            m_ID: -1
             m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50001101
@@ -956,7 +956,7 @@ MonoBehaviour:
         m_ScopeCamera:
           m_FirstPerson:
             m_ID: -1
-            m_Object: {fileID: 8196622106605452703}
+            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: -1
             m_Object: {fileID: 4704444708925649315}
@@ -1138,7 +1138,7 @@ MonoBehaviour:
         m_FirePointLocation:
           m_FirstPerson:
             m_ID: -1
-            m_Object: {fileID: 8750852191942883858}
+            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: -1
             m_Object: {fileID: 4983202303163799255}
@@ -1177,7 +1177,7 @@ MonoBehaviour:
         m_FirePointLocation:
           m_FirstPerson:
             m_ID: -1
-            m_Object: {fileID: 8750852191942883858}
+            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: -1
             m_Object: {fileID: 4983202303163799255}
@@ -2466,12 +2466,6 @@ Transform:
 --- !u!4 &4787839586177021784 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1466278715426541293, guid: 3a812b2908bc910428b3c451985b512a,
-    type: 3}
-  m_PrefabInstance: {fileID: 6208377037117553077}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &5182748132438832755 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1280227298976501702, guid: 3a812b2908bc910428b3c451985b512a,
     type: 3}
   m_PrefabInstance: {fileID: 6208377037117553077}
   m_PrefabAsset: {fileID: 0}

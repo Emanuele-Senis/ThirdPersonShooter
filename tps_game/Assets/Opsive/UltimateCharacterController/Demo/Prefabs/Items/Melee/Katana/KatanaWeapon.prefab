@@ -469,15 +469,7 @@ MonoBehaviour:
         m_MaxCollisionCount: 20
         m_ForwardShieldSensitivity: -0.75
         m_Hitboxes:
-          m_FirstPerson:
-          - m_Collider: {fileID: 3527747060416870428}
-            m_DamageMultiplier: 1
-            m_ColliderObjectID: -1
-            m_MinimumYOffset: 0
-            m_MinimumZOffset: 0
-            m_RequireMovement: 0
-            m_SingleHit: 0
-            m_SurfaceImpact: {fileID: 0}
+          m_FirstPerson: []
           m_ThirdPerson:
           - m_Collider: {fileID: 4154611102301500348}
             m_DamageMultiplier: 1
@@ -730,13 +722,12 @@ MonoBehaviour:
         m_Enabled: 1
         m_Delay: 0
         m_Prefab:
-          m_FirstPerson: {fileID: 2210633355119226477, guid: 77d65c47dea23ae46a78252e8839981b,
-            type: 3}
+          m_FirstPerson: {fileID: 0}
           m_ThirdPerson: {fileID: 6690014396777902469, guid: 5751af2b20021064f9603640c05c0b50,
             type: 3}
         m_Origin:
           m_FirstPerson:
-            m_ID: 50099999
+            m_ID: -1
             m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
@@ -802,13 +793,12 @@ MonoBehaviour:
         m_Enabled: 1
         m_Delay: 0
         m_Prefab:
-          m_FirstPerson: {fileID: 680958677579385908, guid: e84e1fbbb66728a41a937942dd270f1b,
-            type: 3}
+          m_FirstPerson: {fileID: 0}
           m_ThirdPerson: {fileID: 8781562193646847428, guid: 2b465c13c7e4b6942b9d758557a848f2,
             type: 3}
         m_Origin:
           m_FirstPerson:
-            m_ID: 50099999
+            m_ID: -1
             m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
@@ -837,7 +827,7 @@ MonoBehaviour:
             type: 3}
         m_Origin:
           m_FirstPerson:
-            m_ID: 50099999
+            m_ID: -1
             m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
@@ -1258,15 +1248,7 @@ MonoBehaviour:
         m_MaxCollisionCount: 20
         m_ForwardShieldSensitivity: -0.75
         m_Hitboxes:
-          m_FirstPerson:
-          - m_Collider: {fileID: 3527747060416870428}
-            m_DamageMultiplier: 1
-            m_ColliderObjectID: -1
-            m_MinimumYOffset: 0
-            m_MinimumZOffset: 0
-            m_RequireMovement: 0
-            m_SingleHit: 0
-            m_SurfaceImpact: {fileID: 0}
+          m_FirstPerson: []
           m_ThirdPerson:
           - m_Collider: {fileID: 4154611102301500348}
             m_DamageMultiplier: 1
@@ -1504,15 +1486,7 @@ MonoBehaviour:
         m_MaxCollisionCount: 20
         m_ForwardShieldSensitivity: -0.75
         m_Hitboxes:
-          m_FirstPerson:
-          - m_Collider: {fileID: 3527747060416870428}
-            m_DamageMultiplier: 1
-            m_ColliderObjectID: -1
-            m_MinimumYOffset: 0
-            m_MinimumZOffset: 0
-            m_RequireMovement: 0
-            m_SingleHit: 0
-            m_SurfaceImpact: {fileID: 0}
+          m_FirstPerson: []
           m_ThirdPerson:
           - m_Collider: {fileID: 4154611102301500348}
             m_DamageMultiplier: 1
